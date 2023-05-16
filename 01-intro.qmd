@@ -80,7 +80,7 @@ g <- ganttAddTask(g, "Tracking form", "2026-05-15", "2026-05-29")
 g <- ganttAddTask(g, "Defend thesis", "2026-06-01", "2026-06-15")
 g <- ganttAddTask(g, " ", start=NA, end=NA)
 font <- ifelse(is.na(g[["start"]]), 2, 1)
-plot(g, ylabel=list(font=font),
+plot(g, ylabel=list(font=font, cex=c(1, rep(0.7, 8), 1,1, rep(0.7,9))),
      event.time="2022-09-01", event.label="2022-2023 Cohort\n")
 
 # par(lend="square") # default is round
