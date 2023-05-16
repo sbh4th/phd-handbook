@@ -4,7 +4,7 @@ library(Hmisc)
 ```
 # Introduction
 
-Welcome to the the PhD program in Epidemiology at McGill. This handbook aims to provide an overview of important requirements for completing your degree, as well as providing links to other sources of information to enhance your experience in the program.
+Welcome to the PhD program in Epidemiology at McGill. This handbook aims to provide an overview of important requirements for completing your degree, as well as providing links to other sources of information to enhance your experience in the program.
 
 Epidemiology is the study and analysis of the patterns and causes of disease in human populations. It forms the core discipline of public health by identifying the distribution and determinants of health and disease, and by gaining the etiologic understanding to intervene toward the improvement of population health. The PhD program in epidemiology at McGill trains scientists and health professionals to design and conduct studies, analyze health data and effectively communicate scientific results, and to gain novel insights into the causes and prevention of diseases at the population level. Epidemiologic work at the doctoral level involves a thorough integration of biological knowledge of pathogenesis, statistical knowledge of quantitative analysis and causal inference, and sociological knowledge to place these insights in the context of dynamic and interconnected human populations. Major areas of strength at McGill include epidemiologic methods, clinical epidemiology, infectious diseases, social epidemiology, pharmacoepidemiology, public and population health, global health, environmental epidemiology, chronic diseases and aging, and perinatal epidemiology.
 
