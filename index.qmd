@@ -2,4 +2,4 @@
 
 Note that this handbook is specific to McGill's PhD Epidemiology program and does not replace McGill's Graduate and Postdoctoral Studies (GPS) [Calendar](https://www.mcgill.ca/students/courses/calendars/) or [Policies and Procedures](https://www.mcgill.ca/gps/students/policies-and-guidelines). You are responsible for reading and understanding the official GPS procedures, rules and regulations. Please contact the Epidemiology Graduate Program Director (GPD) or Student Services Office to answer any questions.  
 
-This handbook is also available in [PDF](_book/phd-handbook.pdf) format. 
+This handbook is also available in [PDF](https://samharper.org/phd-handbook/phd-handbook.pdf) format. 
