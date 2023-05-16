@@ -31,5 +31,32 @@
   },
   "policies.qmd": {
     "policies.html": "d1aff6e9"
+  },
+  "01-intro.qmd": {
+    "01-intro.html": "cbc900af"
+  },
+  "02-supervision.qmd": {
+    "02-supervision.html": "459bb681"
+  },
+  "03-coursework.qmd": {
+    "03-coursework.html": "53c61968"
+  },
+  "04-concentrations.qmd": {
+    "04-concentrations.html": "48f61735"
+  },
+  "05-comps.qmd": {
+    "05-comps.html": "70d0d075"
+  },
+  "06-protocol.qmd": {
+    "06-protocol.html": "2177ced1"
+  },
+  "07-thesis.qmd": {
+    "07-thesis.html": "097844e4"
+  },
+  "08-policies.qmd": {
+    "08-policies.html": "2ff9fd0b"
+  },
+  "09-funding.qmd": {
+    "09-funding.html": "9a353a0b"
   }
 }
