@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2022-2023 Academic Year </br>"
