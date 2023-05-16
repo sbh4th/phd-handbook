@@ -1,0 +1,35 @@
+{
+  "index.qmd": {
+    "index.html": "0877ba1d"
+  },
+  "intro.qmd": {
+    "intro.html": "42e33a7e"
+  },
+  "summary.qmd": {
+    "summary.html": "76108220"
+  },
+  "references.qmd": {
+    "references.html": "63c15910"
+  },
+  "supervision.qmd": {
+    "supervision.html": "fb58f609"
+  },
+  "coursework.qmd": {
+    "coursework.html": "549c6d2e"
+  },
+  "concentrations.qmd": {
+    "concentrations.html": "85dd5dfa"
+  },
+  "comps.qmd": {
+    "comps.html": "3b1cc331"
+  },
+  "protocol.qmd": {
+    "protocol.html": "dfde096b"
+  },
+  "thesis.qmd": {
+    "thesis.html": "5ecace27"
+  },
+  "policies.qmd": {
+    "policies.html": "d1aff6e9"
+  }
+}

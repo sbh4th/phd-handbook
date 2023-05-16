@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2022-2023 Academic Year </br>"
+  output-file: "phd-handbook"
+  author: "PhD Program Leadership"
+  date: today
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - supervision.qmd
+    - coursework.qmd
+    - concentrations.qmd
+    - comps.qmd
+    - protocol.qmd
+    - thesis.qmd
+    - policies.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

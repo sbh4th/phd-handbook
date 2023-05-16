@@ -1,0 +1,15 @@
+# Thesis Protocol
+
+## Purpose
+
+All PhD students will prepare and defend a protocol for their thesis project. This is typically after students have passed the Comprehensive Exam after the first year of required coursework, though some students may elect to register for the course before passing their comprehensive examination, while defending their own protocol afterwards. It is intended to provide the student with the experience necessary to propose a comprehensive research project and to convince their peers of its scientific merit and originality. It provides a standardized critical evaluation to supplement the expertise of the student’s PhD supervisor and committee and thereby improve the likelihood of the thesis' success. 
+
+## Format
+
+The written protocol should emphasize the importance of the research objective(s) and the proposed methods for addressing them. As per McGill University policy, it can be written in English or French. It should provide sufficient background and detail on data sources; research design, statistical analyses, and power/precision/sample size (as applicable) for each of the research objectives; and study limitations. The student should make clear in the protocol text the extent of their original contribution to the proposed research, as well as the likely format ("traditional" vs manuscript-based) of the thesis.
+
+## Assessment 
+
+The thesis protocol is reviewed by two faculty members plus an external reviewer with substantive expertise in the student's specific area of research. The student, thesis supervisor(s), and other thesis committee members are responsible for seeking the participation of the external reviewer. Importantly, the external reviewer must not be a member of the student's thesis committee, have previously supervised or co-authored a paper with the student, nor have been consulted about any aspect of the proposed research.
+
+*Note: Additional details for the protocol are provided to students when they formally register for EPIB 702 by the course facilitators.*
