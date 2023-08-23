@@ -39,7 +39,7 @@ kbl(d1, caption = "EBOH Electives as of Fall 2021") %>%
 
 ## Directed Reading Courses
 
-*Directed Reading courses complement offerings in the department or elsewhere at McGill or other universities. They are NOT substitutes for existing courses but are, rather, ways for students in the programs to enrich their education in an organized way on topics not otherwise covered or not covered sufficiently (in depth or breadth) in existing courses.*   
+Directed Reading courses complement offerings in the department or elsewhere at McGill or other universities. They are NOT substitutes for existing courses but are, rather, ways for students in the programs to enrich their education in an organized way on topics not otherwise covered or not covered sufficiently (in depth or breadth) in existing courses.   
 
 Students enrolled in the department may take Directed Reading courses for credit towards a degree under the rubric of the Special Topics offerings. These courses may be for 1, 2, or 3 credits. Directed Reading courses should conform to the usual semester format unless the specific circumstances of the course require flexibility. However, students are expected to complete such a course within no more than any six month period. Students will be expected to submit for approval in advance material that provides the objectives and methods to be used for the directed reading work.
 

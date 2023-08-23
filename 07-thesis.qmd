@@ -11,33 +11,27 @@ At least 2 months prior to submitting the initial thesis, students, in collabora
 ### Oral Defense Committee
 The oral defense committee consists of five voting members: Academic Unit representative (Chair or delegate), Supervisor (or co-supervisor, as appropriate), Internal Examiner, Internal Member, and External Member. The committee is designed to ensure a majority of members have not been closely involved with the thesis. "Closely involved" means serving on the student's supervisory committee or having meaningful input into the body of work contained in the thesis.
 
-1. INTERNAL EXAMINER – submit two names
-Usually chosen from members of the Department with expertise in the subject area of the thesis.  The supervisor must contact both proposed internal examiners and secure from them a commitment (by email) that they are willing to serve in this capacity. The internal examiner must not be in conflict of interest according to McGill’s policy (see University conflict of interest regulations).  
+1. INTERNAL EXAMINER – submit two names  <br> Usually chosen from members of the Department with expertise in the subject area of the thesis.  The supervisor must contact both proposed internal examiners and secure from them a commitment (by email) that they are willing to serve in this capacity. The internal examiner must not be in conflict of interest according to McGill’s policy (see University conflict of interest regulations).  
 
-2. EXTERNAL EXAMINER – submit up to four, but at least two, names in a ranked order
-The external examiner must hold a PhD degree, or equivalent, and should be from outside McGill. The proposed external examiners should have demonstrated epidemiologic and/or biostatistical expertise, as well as expertise in the substantive area of the thesis.  Please clearly indicate their qualifications and your main reasons for choosing them.  The Program Committee designate will validate the appropriateness of the proposed choices. In order to minimize any real or perceived conflicts of interest, the Department will contact the external examiner once approved to secure his/her commitment to evaluate the thesis.  The student or supervisor should NOT contact any of the proposed external examiners. 
+2. EXTERNAL EXAMINER – submit up to four, but at least two, names in a ranked order <br> The external examiner must hold a PhD degree, or equivalent, and should be from outside McGill. The proposed external examiners should have demonstrated epidemiologic and/or biostatistical expertise, as well as expertise in the substantive area of the thesis.  Please clearly indicate their qualifications and your main reasons for choosing them.  The Program Committee designate will validate the appropriateness of the proposed choices. In order to minimize any real or perceived conflicts of interest, the Department will contact the external examiner once approved to secure his/her commitment to evaluate the thesis.  The student or supervisor should NOT contact any of the proposed external examiners. <br> External examiners must be perceived to be able to examine the student and the thesis at arm's length, free of conflict of interest from any source. The test of whether or not a conflict of interest might exist is whether a reasonable outside person could consider that a situation could give rise to an apprehension of bias. The candidate's unit must take reasonable steps to avoid recommending an examiner whose relationship with the candidate, the supervisor, or their research could be seen as jeopardizing an impartial judgment on the thesis. Any individual asked to examine a thesis must declare possible sources of conflict. The following checklist, while not exhaustive, itemizes situations that could represent conflict of interest, and thus need to be declared and generally avoided. It is the responsibility of the unit (student's supervisor, chair or designate) to complete this checklist in consultation with the nominated examiner and provide it to the Thesis Office along with the Nomination of Examiners form. An answer of YES to any question below would normally exclude this individual as an examiner. Address any queries to the Thesis Office.  
 
-External examiners must be perceived to be able to examine the student and the thesis at arm's length, free of conflict of interest from any source. The test of whether or not a conflict of interest might exist is whether a reasonable outside person could consider that a situation could give rise to an apprehension of bias. The candidate's unit must take reasonable steps to avoid recommending an examiner whose relationship with the candidate, the supervisor, or their research could be seen as jeopardizing an impartial judgment on the thesis. Any individual asked to examine a thesis must declare possible sources of conflict. The following checklist, while not exhaustive, itemizes situations that could represent conflict of interest, and thus need to be declared and generally avoided. It is the responsibility of the unit (student's supervisor, chair or designate) to complete this checklist in consultation with the nominated examiner and provide it to the Thesis Office along with the Nomination of Examiners form. An answer of YES to any question below would normally exclude this individual as an examiner. Address any queries to the Thesis Office.  
+  - Have you co-authored or otherwise carried out research in collaboration with the student or the supervisor (within the last five years)?
+  - Do you knowingly have a financial interest in an entity that could benefit from the thesis research? 
+  - Have you previously read the thesis, or parts of it, or evaluated the student's thesis research (e.g., as an advisor, as a supervisory committee member, evaluator for progress tracking)? 
+  - Have you previously examined or been examined by the student's supervisor (within the last five years), e.g., the former student or former supervisor of the student's supervisor? 
+  - Do you have a former or pending affiliation with the student's academic unit* (within the last five years); e.g., graduated from the same academic program or been offered an academic appointment in the unit?
+  - Have you held an academic appointment at McGill within the last five years? 
+  - Have you engaged in (or intend to engage in) discussions/negotiations with student or supervisor relating to future employment or supervision? 
+  - Do you have a personal or financial relationship to the student or the supervisor? 
+  - Relationships that might appear to have a conflict of interest include:
+    - A past or present spouse or partner
+    - A close family member
+    - A past or present business partner
+  - Have you engaged in other activities that could be interpreted as conflict of interest? (please specify)  
 
-- Have you co-authored or otherwise carried out research in collaboration with the student or the supervisor (within the last five years)?
-- Do you knowingly have a financial interest in an entity that could benefit from the thesis research? 
-- Have you previously read the thesis, or parts of it, or evaluated the student's thesis research (e.g., as an advisor, as a supervisory committee member, evaluator for progress tracking)? 
-- Have you previously examined or been examined by the student's supervisor (within the last five years), e.g., the former student or former supervisor of the student's supervisor? 
-- Do you have a former or pending affiliation with the student's academic unit* (within the last five years); e.g., graduated from the same academic program or been offered an academic appointment in the unit?
-- Have you held an academic appointment at McGill within the last five years? 
-- Have you engaged in (or intend to engage in) discussions/negotiations with student or supervisor relating to future employment or supervision? 
-- Do you have a personal or financial relationship to the student or the supervisor? 
-- Relationships that might appear to have a conflict of interest include:
-  - A past or present spouse or partner
-  - A close family member
-  - A past or present business partner
-- Have you engaged in other activities that could be interpreted as conflict of interest? (please specify)  
+3. INTERNAL MEMBER – submit two names <br> The internal member is a McGill faculty, or affiliated, member who may be associated with the student’s unit. You do not need to contact these individuals.  
 
-3. INTERNAL MEMBER – submit two names
-The internal member is a McGill faculty, or affiliated, member who may be associated with the student’s unit. You do not need to contact these individuals.  
-
-4. EXTERNAL MEMBER – submit two names
-The external member must not be from the unit and may be from outside McGill. The external member is distinct from the external examiner and does not submit a written report. You do not need to contact these individuals.
+4. EXTERNAL MEMBER – submit two names  <br> The external member must not be from the unit and may be from outside McGill. The external member is distinct from the external examiner and does not submit a written report. You do not need to contact these individuals.
 
 
 ## Human Subjects Review
