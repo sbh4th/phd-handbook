@@ -20,8 +20,8 @@ chapters <- c("01-intro", "02-supervision",
 # time or `update` to replace)
 
 for (c in chapters) {
-    trackdown::upload_file(
-    # trackdown::update_file(
+    # trackdown::upload_file(
+    trackdown::update_file(
     file = paste(c, "qmd", sep = "."), 
     gpath="mcgill-admin/epi-phd-handbook", 
     gfile = c,
