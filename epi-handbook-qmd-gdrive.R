@@ -43,9 +43,9 @@ trackdown::download_file(
 # update an individual chapter
 # individual chapter
 trackdown::update_file(
-  file = "07-Policies",
+  file = "08-policies.qmd",
   path = "mcgill-admin/epi-phd-handbook",
-  gfile = "07-Policies") 
+  gfile = "08-policies") 
 
 
 
