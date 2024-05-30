@@ -58,5 +58,23 @@
   },
   "09-funding.qmd": {
     "09-funding.html": "9a353a0b"
+  },
+  "05-md-phd.qmd": {
+    "05-md-phd.html": "fbab1531"
+  },
+  "06-comps.qmd": {
+    "06-comps.html": "0d508b1a"
+  },
+  "07-protocol.qmd": {
+    "07-protocol.html": "24cdb19c"
+  },
+  "08-thesis.qmd": {
+    "08-thesis.html": "96121d9b"
+  },
+  "09-policies.qmd": {
+    "09-policies.html": "8c4de6fa"
+  },
+  "10-funding.qmd": {
+    "10-funding.html": "860f3707"
   }
 }

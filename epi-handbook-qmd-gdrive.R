@@ -12,9 +12,9 @@ library(trackdown)
 # Code to upload all handbook chapters as separate files
 # to google drive as google docs
 chapters <- c("01-intro", "02-supervision", 
-              "03-coursework", "04-concentrations", 
-              "05-comps", "06-protocol", "07-thesis", 
-              "08-policies", "09-funding")
+              "03-coursework", "04-concentrations",
+              "05-md-phd", "06-comps", "07-protocol", 
+              "08-thesis", "09-policies", "10-funding")
 
 # loop over list of chapters (use `upload` for first
 # time or `update` to replace)
@@ -43,9 +43,9 @@ trackdown::download_file(
 # update an individual chapter
 # individual chapter
 trackdown::update_file(
-  file = "08-policies.qmd",
+  file = "05-md-phd.qmd",
   path = "mcgill-admin/epi-phd-handbook",
-  gfile = "08-policies") 
+  gfile = "05-md-phd") 
 
 
 
