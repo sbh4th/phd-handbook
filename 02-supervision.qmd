@@ -3,14 +3,18 @@
 Supervision plays a crucial role in your doctoral training, so the decision of choosing a supervisor should be made with care and attention. Consider your substantive research interests, funding, timelines, how much time and responsiveness you may need from a supervisor, as well as a potential supervisor's existing supervision load when making your decision. Don't be afraid to ask lots of questions about a supervisor's style of working or research group policies before committing to work with someone.   
 
 ## Getting Started
+
 By default, all doctoral students, even those that have previously discussed supervision with a faculty member, are initially advised by the designated PhD Program Director or Advisor. The advisor's role is to provide early guidance on your academic program and career planning, to mentor you, and to serve as your advocate when necessary. Generally speaking, once a supervisor has been approved, the supervisor takes on the primary mentorship role.
 
 Of course, this does not exclude the possibility of a student-supervisor match at admission, nor the possibility of the academic Program Director or Advisor becoming a student's supervisor.
 
 ## Thesis Supervisor
-Doctoral students are expected to identify a supervisor by no later than 15 February of their first year of study, but identifying a supervisor earlier is encouraged, as solid supervision is important for planning and making progress. 
+
+Doctoral students are expected to identify a supervisor (or co-supervisors) by no later than 15 February of their first year of study, but identifying a supervisor earlier is encouraged, as solid supervision is important for planning and making progress. 
 
 If you currently don't have a supervisor, take the time to contact professors within the various areas of faculty research that interest you. Faculty research interests are broadly categorized on the departmental [website](https://www.mcgill.ca/epi-biostat-occh/research). It is also worthwhile networking and discussing potential supervisors with your peers and more senior doctoral students. If you wish to be supervised by an [Associate Member](https://www.mcgill.ca/epi-biostat-occh/people/field_mprofile_group/Associate%20Members) of the department it may be necessary to have a Full Member of the faculty as a co-supervisor. Contact the Student Services Office or the Program Director/Advisor for assistance.
+
+Co-supervision is possible and not uncommon. However, one member must be listed as the primary supervisor and must hold supervisory privileges according to EBOH guidelines. Co-supervisors that are not the primary supervisor do not have to be based in EBOH or at McGill. 
 
 Although uncommon, note that it is certainly possible to change thesis supervisors at any point during your training. Generally, if you plan to change supervisors, it is advantageous to do so earlier rather than later in your training. Changing supervisors has consequences for funding and possibly your thesis topic and timeline, and the decision should be carefully considered. Before you make a decision to change, talk to the PhD program administrators.
 
@@ -38,13 +42,15 @@ Maintaining a mutually respectful and supportive relationship with your thesis s
 
 
 ## Thesis supervisory committee
-You are required to have a Thesis Supervisory Committee. The membership and size are determined by you and your supervisor, with the approval of the PhD Program Director or Advisor. For the PhD a minimum committee of two (your supervisor and one other member) is required, but may (and likely should) be larger, depending on how inter-disciplinary the topic is, and what other expertise is needed to support your thesis. Committee members must hold a faculty or scientist appointment at a university or research institution, though there is flexibility to include members at non-research institutions if needed. The committee should be struck at an early stage of thesis research and certainly no later than the end of the semester in which the topic has been defined.
+
+You are required to have a Thesis Supervisory Committee. The membership and size are determined by you and your supervisor, with the approval of the PhD Program Director or Advisor. For the PhD a minimum committee of two (your supervisor and one other member) is required, but may (and likely should) be larger, depending on how inter-disciplinary the topic is and what other expertise is needed to support your thesis. Committee members must hold a faculty or scientist appointment at a university or research institution, though there is flexibility to include members at non-research institutions if needed. The committee should be struck at an early stage of thesis research and certainly no later than the end of the semester in which the topic has been defined.
 
 Meetings with the entire thesis supervisory committee should be held as frequently as is necessary to ensure efficient progress of the thesis research, but at a *minimum* once per semester.
 
 ## Expectations
 
 ### Expectations for the supervisor
+
 A Supervisor will:  
 
 - help to define topic of dissertation;
@@ -60,6 +66,7 @@ A Supervisor will:
 - ensure that corrections/suggestions by examiners are carried out.
 
 ### Expectations for Thesis Committee Members
+
 Thesis Committee Members will:
 
 - be a consultant to you and your supervisor;
@@ -67,6 +74,7 @@ Thesis Committee Members will:
 - attend once-a-semester meeting of your full thesis committee and take active part in assessing progress and setting goals for you.
 
 ### Expectations for you
+
 The department expects that you will:
 
 - follow the timelines set out for the program, including submitting the required progress reports in accordance with established deadlines;
@@ -75,6 +83,7 @@ The department expects that you will:
 - follow established norms for research integrity.
 
 ## Conflicts
+
 Completing a PhD is a long and occasionally frustrating process for everyone involved, and conflicts between you and your supervisor (or thesis committee) may arise. In a situation of conflict with you thesis supervisor, you should follow these steps one at a time and *in the following order*:
 
 1. speak to your supervisor

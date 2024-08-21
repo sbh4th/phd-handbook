@@ -43,9 +43,10 @@ trackdown::download_file(
 # update an individual chapter
 # individual chapter
 trackdown::update_file(
-  file = "05-md-phd.qmd",
+  file = "02-supervision.qmd",
   path = "mcgill-admin/epi-phd-handbook",
-  gfile = "05-md-phd") 
+  gfile = "02-supervision",
+  hide_code = TRUE) 
 
 
 
