@@ -11,14 +11,14 @@ Epidemiology is the study and analysis of the patterns and causes of disease in 
 ## PhD Program Leadership
 
 *Program Director*    
-Sam Harper [[email]](mailto:sam.harper@mcgill.ca)  
-Phone: 514-398-2356  
-Office: 2001 McGill College, Suite 1262
+Kris Filion [[email]](mailto:kristian.filion@mcgill.ca)  
+Phone: 514-398-XXXX  
+Office: XXXX
 
 *Program Advisor*  
-Jill Baumgartner[[email]](mailto:jill.baumgartner@mcgill.ca)  
-Phone: 514-398-6688  
-Office: 2001 McGill College, Suite 1278
+Erin Strumpf[[email]](mailto:erin.strumpf@mcgill.ca)  
+Phone: 514-398-XXXX  
+Office: XXXX
 
 *Student Affairs Officer*  
 André Yves Gagnon [[email]](mailto:gradadmin.eboh@mcgill.ca)  
@@ -31,7 +31,7 @@ Phone: 514-398-6269
 Office: 2001 McGill College, Suite 1250
 
 *PhD Student Representative*  
-Stephen Ogbodo [[email]](mailto:stephen.ogbodo@mail.mcgill.ca)  
+Needs updating... [[email]](mailto:firstname.lastname@mail.mcgill.ca)  
 
 ## Competencies
 Our program aims to prepare our students for successful careers in epidemiology. Upon successful completion of the PhD in Epidemiology at McGill, we aim for our students to: 

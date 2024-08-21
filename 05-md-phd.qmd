@@ -1,12 +1,12 @@
-# MD-PhD Track
+# MDCM-PhD Track
 
-The Faculty of Medicine and Health Sciences offers a combined clinical and doctoral program designed to prepare graduates for a career as a physician-scientist. Upon successful completion of this program, graduates are awarded a MDCM (Medicinae Doctorem et Chirurgiae Magistrum/Doctor of Medicine and Master of Surgery) degree and a PhD degree in Epidemiology. Students in the MDCM-PhD program can complete their PhD studies in Epidemiology in the Department of Epidemiology, Biostatistics, and Occupational Health.
+The Faculty of Medicine and Health Sciences offers a combined clinical and doctoral program designed to prepare graduates for a career as a physician-scientist. Upon successful completion of this program, graduates are awarded a MDCM (Medicinae Doctorem et Chirurgiae Magistrum/Doctor of Medicine and Master of Surgery) degree and a PhD degree. Students in this program can complete their PhD studies in Epidemiology in the Department of Epidemiology, Biostatistics, and Occupational Health.
 
-The structure of this eight-year program is shown in the Figure below. From September of Year 1 to December of Year 2, students complete the basic and clinical sciences portions of the medical curriculum. During the Summer of Year 1, students will have 2 months to prepare for their training in epidemiology and conduct initial thesis research; this includes working with their supervisor(s) to develop preliminary thesis objectives, conduct initial thesis research (e.g., literature review), develop their data analytic skills, and start the progress of acquiring data, if applicable. All course requirements and milestones for the PhD in Epidemiology, shown in the Figure, must be completed within the four years between the Winter of Year 2 and Fall of Year 6, including thesis submission. Students then complete the requirements of the MDCM degree between the Winter semester of Year 6 and the end of Year 8.
-
-![MD-PhD Timeline]("data/md-phd-timeline.png")
-
-For students enrolled in the MD-PhD option pursuing their PhD in Epidemiology, the timing of the core course sequence requires minor alterations. 
+The structure of this eight-year program is shown in the Figure below. From September of Year 1 to December of Year 2, students complete the basic and clinical sciences portions of the medical curriculum. During the Summer of Year 1, students will have 2 months to prepare for their training in epidemiology and conduct initial thesis research; this includes working with their supervisor(s) to develop preliminary thesis objectives, conduct initial thesis research (e.g., literature review), develop their data analytic skills, and start the progress of acquiring data, if applicable. All course requirements and milestones for the PhD in Epidemiology, shown in the Figure, must be completed within the four years between the Winter of Year 2 and Fall of Year 6 of the MDCM-PhD program, including thesis submission. Students then complete the requirements of the MDCM degree between the Winter semester of Year 6 and the end of Year 8. 
 
 
-Please contact the MD-PhD contact person [Kris Filion](mailto:kristian.filion@mcgill.ca) for any questions regarding this track.
+```{r, fig.cap = "MD-PhD Timeline", echo=F, out.width="85%"}
+knitr::include_graphics("data/md-phd-timeline.png")
+```
+
+Please contact the MDCM-PhD contact person [Kris Filion](mailto:kristian.filion@mcgill.ca) for any questions regarding this track.

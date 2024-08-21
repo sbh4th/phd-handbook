@@ -27,9 +27,12 @@ The required coursework is typically completed during the first 4 terms and cons
 ## Elective courses
 Students are also required to take 9 credits of elective coursework, at the 500 level or higher, with a minimum of 3 credits in Biostatistics and 6 credits in an epidemiologic and/or substantive topic (normally related to the thesis topic). Elective courses must be chosen in consultation with the student's supervisor and/or the degree program’s director or adviser. 
 
-These courses can be chosen from the Department’s current offer of more than 40 courses in EBOH as well as from other McGill Departments. To assist you in your course selections see the Ph.D. Epidemiology Electives Guidelines page. Below in Table \@ref(tab:elect) you can find a list of current EBOH courses commonly taken as electives. However, courses from other departments or faculties may be possible, depending on the thesis subject matter and subject to the approval of your supervisor(s) and the Program Director. 
+These courses can be chosen from the Department’s current offer of more than 40 courses in EBOH as well as from other McGill Departments. To assist you in your course selections see the Ph.D. Epidemiology Electives Guidelines page. Below in @tbl-elect you can find a list of current EBOH courses commonly taken as electives. However, courses from other departments or faculties may be possible, depending on the thesis subject matter and subject to the approval of your supervisor(s) and the Program Director. 
 
-```{r elect, echo=FALSE}
+```{r}
+#| echo: FALSE
+#| label: tbl-elect
+
 d <- read_xlsx("data/PhD-electives-list.xlsx", range = cell_cols("A:C"))
 d1 <- drop_na(d)
 kbl(d1, caption = "EBOH Electives as of Fall 2021") %>%
