@@ -12,13 +12,13 @@ Epidemiology is the study and analysis of the patterns and causes of disease in 
 
 *Program Director*    
 Kris Filion [[email]](mailto:kristian.filion@mcgill.ca)  
-Phone: 514-398-XXXX  
-Office: XXXX
+Phone: 514-340-8222 x 28394  
+Office: TBD
 
 *Program Advisor*  
 Erin Strumpf[[email]](mailto:erin.strumpf@mcgill.ca)  
-Phone: 514-398-XXXX  
-Office: XXXX
+Phone: 514-398-2880  
+Office: 2001 McGill College, Suite 1252
 
 *Student Affairs Officer*  
 André Yves Gagnon [[email]](mailto:gradadmin.eboh@mcgill.ca)  
@@ -31,7 +31,7 @@ Phone: 514-398-6269
 Office: 2001 McGill College, Suite 1250
 
 *PhD Student Representative*  
-Needs updating... [[email]](mailto:firstname.lastname@mail.mcgill.ca)  
+Peter Socha [[email]](mailto:peter.socha@mail.mcgill.ca)   
 
 ## Competencies
 Our program aims to prepare our students for successful careers in epidemiology. Upon successful completion of the PhD in Epidemiology at McGill, we aim for our students to: 
@@ -59,29 +59,29 @@ Below we show a very general example of a timeline for completing all of the req
 library("plan")
 g <- new("gantt")
 g <- ganttAddTask(g, "Courses") # no times, so a heading
-g <- ganttAddTask(g, "Epi Methods I", "2023-09-01", "2023-12-15")
-g <- ganttAddTask(g, "Study Design", "2023-09-01", "2023-12-15")
-g <- ganttAddTask(g, "Epi Methods II", "2024-01-01", "2024-04-15")
-g <- ganttAddTask(g, "PhD Seminar", "2024-01-01", "2024-04-15")
-g <- ganttAddTask(g, "Comprehensive Exam", "2024-06-01", "2024-06-08")
-g <- ganttAddTask(g, "Thesis Protocol", "2024-09-01", "2025-04-15")
-g <- ganttAddTask(g, "BIOS Electives", "2024-09-01", "2025-04-15")
-g <- ganttAddTask(g, "EPIB Electives", "2024-09-01", "2025-04-15")
+g <- ganttAddTask(g, "Epi Methods I", "2024-09-01", "2024-12-15")
+g <- ganttAddTask(g, "Study Design", "2024-09-01", "2024-12-15")
+g <- ganttAddTask(g, "Epi Methods II", "2025-01-01", "2025-04-15")
+g <- ganttAddTask(g, "PhD Seminar", "2025-01-01", "2025-04-15")
+g <- ganttAddTask(g, "Comprehensive Exam", "2025-06-01", "2025-06-08")
+g <- ganttAddTask(g, "Thesis Protocol", "2025-09-01", "2026-04-15")
+g <- ganttAddTask(g, "BIOS Electives", "2025-09-01", "2026-04-15")
+g <- ganttAddTask(g, "EPIB Electives", "2025-09-01", "2026-04-15")
 g <- ganttAddTask(g, " ", start=NA, end=NA)
 g <- ganttAddTask(g, "Research") # no times, so a heading
-g <- ganttAddTask(g, "Literature review", "2023-09-01", "2025-04-15")
-g <- ganttAddTask(g, "Supervisor nomination", "2024-05-15", "2024-05-29")
-g <- ganttAddTask(g, "Tracking form", "2025-05-15", "2025-05-29")
-g <- ganttAddTask(g, "Defend thesis proposal", "2025-01-01", "2025-04-15")
-g <- ganttAddTask(g, "Thesis work", "2025-04-15", "2027-04-15")
+g <- ganttAddTask(g, "Literature review", "2024-09-01", "2026-04-15")
+g <- ganttAddTask(g, "Supervisor nomination", "2025-05-15", "2025-05-29")
 g <- ganttAddTask(g, "Tracking form", "2026-05-15", "2026-05-29")
-g <- ganttAddTask(g, "Teaching assistantship", "2026-09-01", "2026-12-15")
+g <- ganttAddTask(g, "Defend thesis proposal", "2026-01-01", "2026-04-15")
+g <- ganttAddTask(g, "Thesis work", "2026-04-15", "2028-04-15")
 g <- ganttAddTask(g, "Tracking form", "2027-05-15", "2027-05-29")
-g <- ganttAddTask(g, "Defend thesis", "2027-06-01", "2027-06-15")
+g <- ganttAddTask(g, "Teaching assistantship", "2027-09-01", "2027-12-15")
+g <- ganttAddTask(g, "Tracking form", "2028-05-15", "2028-05-29")
+g <- ganttAddTask(g, "Defend thesis", "2028-06-01", "2028-06-15")
 g <- ganttAddTask(g, " ", start=NA, end=NA)
 font <- ifelse(is.na(g[["start"]]), 2, 1)
 plot(g, ylabel=list(font=font, cex=c(1, rep(0.7, 8), 1,1, rep(0.7,9))),
-     event.time="2023-09-01", event.label="2023-2024 Cohort\n")
+     event.time="2024-09-01", event.label="2024-2025 Cohort\n")
 
 # par(lend="square") # default is round
 # legend("topright", pch=22, pt.cex=2, pt.bg=gray(c(0.3, 0.9)),
