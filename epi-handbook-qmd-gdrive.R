@@ -16,6 +16,8 @@ chapters <- c("01-intro", "02-supervision",
               "05-md-phd", "06-comps", "07-protocol", 
               "08-thesis", "09-policies", "10-funding")
 
+chapters <- c("01-intro")
+
 # loop over list of chapters (use `upload` for first
 # time or `update` to replace)
 
@@ -34,9 +36,9 @@ for (c in chapters) {
 
 # individual chapter
 trackdown::download_file(
-  gfile = "08-policies",
+  gfile = "06-comps",
   gpath = "mcgill-admin/epi-phd-handbook",
-  file = "08-policies.qmd") 
+  file = "06-comps.qmd") 
 
 
 

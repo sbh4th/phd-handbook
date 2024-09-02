@@ -6,7 +6,10 @@ book:
   title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2024-2025 Academic Year </br>"
   output-file: "phd-handbook"
   author: "PhD Program Leadership"
-  date: today
+  page-footer:
+    right: 
+      - text: "Last updated: 2024-09-02"
+  # date: 
   chapters:
     - index.qmd
     - 01-intro.qmd
