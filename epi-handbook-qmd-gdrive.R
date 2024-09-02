@@ -16,7 +16,7 @@ chapters <- c("01-intro", "02-supervision",
               "05-md-phd", "06-comps", "07-protocol", 
               "08-thesis", "09-policies", "10-funding")
 
-chapters <- c("01-intro")
+chapters <- c("06-comps")
 
 # loop over list of chapters (use `upload` for first
 # time or `update` to replace)
