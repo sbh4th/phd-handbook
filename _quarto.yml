@@ -8,7 +8,7 @@ book:
   author: "PhD Program Leadership"
   page-footer:
     right: 
-      - text: "Last updated: 2024-09-02"
+      - text: "Last updated: 2024-09-03"
   # date: 
   chapters:
     - index.qmd
@@ -28,6 +28,11 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \chead{}
+        \rofoot{Last updated: 2024-09-03}
 
 
 

@@ -5,6 +5,7 @@ The Faculty of Medicine and Health Sciences offers a combined clinical and docto
 The structure of this eight-year program is shown in the Figure below. From September of Year 1 to December of Year 2, students complete the basic and clinical sciences portions of the medical curriculum. During the Summer of Year 1, students will have 2 months to prepare for their training in epidemiology and conduct initial thesis research; this includes working with their supervisor(s) to develop preliminary thesis objectives, conduct initial thesis research (e.g., literature review), develop their data analytic skills, and start the progress of acquiring data, if applicable. All course requirements and milestones for the PhD in Epidemiology, shown in the Figure, must be completed within the four years between the Winter of Year 2 and Fall of Year 6 of the MDCM-PhD program, including thesis submission. Students then complete the requirements of the MDCM degree between the Winter semester of Year 6 and the end of Year 8. 
 
 
+
 ```{r, fig.cap = "MD-PhD Timeline", echo=F, out.width="85%"}
 knitr::include_graphics("data/md-phd-timeline.png")
 ```
