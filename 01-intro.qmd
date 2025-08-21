@@ -52,6 +52,10 @@ The timeline for program completion varies depending on each student's circumsta
 Below we show a very general example of a timeline for completing all of the required coursework and other milestones, as well as some reporting requirements. 
 
 ```{r plan, echo=FALSE}
+#| fig-width: 8
+#| fig-height: 5
+
+
 library(ggplot2)
 ## --- 1. Setup helpers ---
 index_date <- as.Date("2025-09-01")

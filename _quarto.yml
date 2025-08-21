@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 book:
-  title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2024-2025 Academic Year </br>"
+  title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2026-2026 Academic Year </br>"
   output-file: "phd-handbook"
   author: "PhD Program Leadership"
   page-footer:
     right: 
-      - text: "Last updated: 2024-09-03"
+      - text: "Last updated: 2025-08-21"
   # date: 
   chapters:
     - index.qmd

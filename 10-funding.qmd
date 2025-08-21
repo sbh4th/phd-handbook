@@ -2,12 +2,12 @@
 
 ## Departmental Obligations
 
-For the 2024-2025 academic year the Department, jointly with the PhD student's supervisor, offers a funding package valued at a *minimum* of \$29,170 for Canadian citizens and permanent residents, and \$29,770 for international students for a *maximum* of four years. This is comprised of $22,500 for living expenses, with the remainder to cover tuition (at the QC/CA/PR level) and fees (including International health & GPS supplemental health plans). In addition, the Department will use different mechanisms such as Differential Fee Waivers to cover the additional tuition for international students so that they pay tuition at the same level as Canadian students.
+For the 2025-2026 academic year the Department, jointly with the PhD student's supervisor, offers a funding package valued at a *minimum* of \$29,731 for Canadian citizens and permanent residents, and \$30,406 for international students for a *maximum* of four years. This is comprised of $22,500 for living expenses, with the remainder to cover tuition (at the QC/CA/PR level) and fees (including International health & GPS supplemental health plans). In addition, the Department will use different mechanisms such as Differential Fee Waivers to cover the additional tuition for international students so that they pay tuition at the same level as Canadian students.
 
-To maintain eligibility for minimum funding, Ph.D. students must:
+To maintain eligibility for minimum funding, PhD students must:
 
 - Be studying full-time, as defined by McGill Graduate Student policies.
-- Be in academic years 1-4 of the Ph.D. program; 
+- Be in academic years 1-4 of the PhD program; 
 - Maintain good academic standing according to EBOH annual progress assessment; and
 - Apply for external awards for which they are eligible, including CIHR, FRQS, SSHRC, NSERC, etc., as well as the McGill Faculty of Medicine & Health Sciences and Hospital Research Institute competitions 
 
@@ -17,65 +17,44 @@ Students may only submit one application per year to a Tri-Council funding agenc
 
 Information sessions are held in mid-to-late September for students to obtain information about the main graduate fellowships. These sessions are convened by agency representatives and McGill professors involved on adjudication committees. See the GPS Website for specific dates and locations. The department often receives notices about various awards for students; these are sent to students via e-mail. There are many other fellowships/scholarships available. See those listed on the Graduate and Postdoctoral Studies [website](https://www.mcgill.ca/gps/funding/opportunities/phd). It is also worthwhile to search the web for other opportunities or talk with upper-year PhD students, as you may be eligible for fellowships provided by agencies in your home province or country.
 
-### Canadian Institute of Health Research (CIHR)
+### Canadian Institutes of Health Research (CIHR), Social Science and Humanities Research Council (SSHRC), and Natural Sciences and Engineering Research Council (NSERC) [Tri-Agencies]
 
-Value:	\$35,000 per year  
+Value:	\$40,000 per year  
 Duration:	36 months  
 Tenure: Canadian institutions only  
-Application deadline: 2024-11-21
+Application deadline: 2025-11-21
 
 - Through a Canadian institution: Contact your institution 
-- Directly to the agencies: 2024-10-17
+- Directly to the agencies: 2025-10-17
 
-To be considered eligible for support by CIHR, you must:  
-
-- be a Canadian citizen or permanent resident of Canada;
-- be registered in full-time studies in a Canadian graduate school;
-- have achieved first-class average at McGill (i.e., A- or 3.70); 
+To be considered eligible for Tri-Agency support, you **must have completed no more than 36 months** of full-time equivalent study in the doctoral program, the PhD portion of the joint professional undergraduate/PhD program (such as MD/PhD, JD/PhD, DVM/PhD) or the joint program (such as MA/PhD, MSc/PhD, MBA/PhD) for which you are requesting funding by December 31 of the calendar year of your application.
 
 Individuals with a health professional degree who seek support for doctoral research training are eligible to apply for the CIHR Doctoral Research Award. Please note that a person holding a health professional degree would receive a higher stipend only through the CIHR Fellowships program.
 
+If you are not a Canadian citizen, permanent resident of Canada or protected person under subsection 95(2) of the Immigration and Refugee Protection Act (Canada), you must be enrolled in your doctoral program of study at an eligible Canadian institution by the application deadline. Up to 15% of awards will be available to international applicants.
+
 - Students pursuing an MD/PhD may apply for a Doctoral Research Award but should also consider the MD/PhD Studentships Program.
 
-See CIHR's [website](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) for further information.
+See the Tri-Agency [website](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/cgrsd-besrd_eng.asp) for further information.
 
 ### Fonds de la Recherche en santé du Québec (FRSQ/FRQS)  
 
 Competition year: 2023-2024  
-Deadline (application):  October 5th, 2023 at 16:00 (EST)  
-Announcement of results: April 2024  
+Deadline (application):  October 1st, 2025 at 16:00 (EST)  
+Announcement of results: April 2026  
 Amount: \$25 000 per year  
 Duration: 4 years  
 
 
-To be considered eligible for support, on the deadline date, you must:  
+In accordance with Section 2.1 of the CGR, to be eligible to apply for a doctoral scholarship, applicants must:
 
-eligible to apply for a doctoral training scholarship, applicants must:  
+- be a Canadian citizen or Canadian permanent resident, and
+- have a Régie de l’assurance maladie du Québec (RAMQ) card that is valid at
+the competition deadline, or proof of application for a RAMQ card and that the
+card will be valid at the competition deadline or, if they are in the process of
+renewing their RAMQ card at the competition deadline, proof that a new card
+has been requested from RAMQ and a copy of the old (expired) card.
 
-- Be a Canadian citizen or permanent resident AND
-- Have a health insurance card issued by the Régie de l’assurance maladie du Québec (RAMQ) valid at the competition deadline, or proof that a health insurance card has been requested from the RAMQ and that the card will be valid at the competition deadline.
+Applicants who do not meet one or both of the above conditions are still eligible to apply, provided they submit proof of admission to a program of study at a Québec university or a consent form from their research supervisor (see Section 4.3). In addition, they must carry out their studies in Québec (see Section 3.5).
 
-If either of the above conditions is not met, the applicant must submit one of the following documents to be eligible:
-
-- Proof of admission to a program of study eligible for this scholarship program (see section 3.1.1) at a Québec university OR
-- An acceptance form from the research supervisor at a Québec university (“Supervisor’s form”).
-
-See the FRQS [website](https://frq.gouv.qc.ca/en/program/doctoral-training-scholarships-frqs-2024-2025) for current information.
-
-### Natural Science & Engineering Research Council (NSERC)
-
-Value:	\$21,000 per year  
-Duration:	36 months  
-Tenure: Canadian institutions only  
-Application deadline: October 5th, 2023
-
-- Through a Canadian institution: Contact your institution
-- Directly to the agencies: October 17th, 2023  
-
-To be considered eligible for support, on the deadline date, you must:  
-
-- be a Canadian citizen, or a permanent resident of Canada;
-- hold, or expect to hold (at the time you take up the award), a degree in science or engineering from a university whose standing is acceptable to NSERC;
-- intend to pursue in the following year full-time graduate studies and research at the Master's or Doctoral level in one of the areas of the natural sciences or engineering supported by NSERC.  
-
-See the NSERC [website](https://www.nserc-crsng.gc.ca/OnlineServices-ServicesEnLigne/instructions/201/pgs-pdf_eng.asp) for current information.
+See the FRQS [website](https://frq.gouv.qc.ca/en/program/doctoral-research-scholarship-2026-2027-b2-regular-component-and-re-entering-research-component/) for current information.
