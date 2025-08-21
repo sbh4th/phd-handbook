@@ -1,7 +1,3 @@
-```{r setup, echo=FALSE, message=FALSE, warning=FALSE}
-library(plan)
-library(Hmisc)
-```
 # Introduction
 
 Welcome to the PhD program in Epidemiology at McGill. This handbook aims to provide an overview of important requirements for completing your degree, as well as providing links to other sources of information to enhance your experience in the program.
@@ -56,35 +52,68 @@ The timeline for program completion varies depending on each student's circumsta
 Below we show a very general example of a timeline for completing all of the required coursework and other milestones, as well as some reporting requirements. 
 
 ```{r plan, echo=FALSE}
-library("plan")
-g <- new("gantt")
-g <- ganttAddTask(g, "Courses") # no times, so a heading
-g <- ganttAddTask(g, "Epi Methods I", "2024-09-01", "2024-12-15")
-g <- ganttAddTask(g, "Study Design", "2024-09-01", "2024-12-15")
-g <- ganttAddTask(g, "Epi Methods II", "2025-01-01", "2025-04-15")
-g <- ganttAddTask(g, "PhD Seminar", "2025-01-01", "2025-04-15")
-g <- ganttAddTask(g, "Comprehensive Exam", "2025-06-01", "2025-06-08")
-g <- ganttAddTask(g, "Thesis Protocol", "2025-09-01", "2026-04-15")
-g <- ganttAddTask(g, "BIOS Electives", "2025-09-01", "2026-04-15")
-g <- ganttAddTask(g, "EPIB Electives", "2025-09-01", "2026-04-15")
-g <- ganttAddTask(g, " ", start=NA, end=NA)
-g <- ganttAddTask(g, "Research") # no times, so a heading
-g <- ganttAddTask(g, "Literature review", "2024-09-01", "2026-04-15")
-g <- ganttAddTask(g, "Supervisor nomination", "2025-05-15", "2025-05-29")
-g <- ganttAddTask(g, "Tracking form", "2026-05-15", "2026-05-29")
-g <- ganttAddTask(g, "Defend thesis proposal", "2026-01-01", "2026-04-15")
-g <- ganttAddTask(g, "Thesis work", "2026-04-15", "2028-04-15")
-g <- ganttAddTask(g, "Tracking form", "2027-05-15", "2027-05-29")
-g <- ganttAddTask(g, "Teaching assistantship", "2027-09-01", "2027-12-15")
-g <- ganttAddTask(g, "Tracking form", "2028-05-15", "2028-05-29")
-g <- ganttAddTask(g, "Defend thesis", "2028-06-01", "2028-06-15")
-g <- ganttAddTask(g, " ", start=NA, end=NA)
-font <- ifelse(is.na(g[["start"]]), 2, 1)
-plot(g, ylabel=list(font=font, cex=c(1, rep(0.7, 8), 1,1, rep(0.7,9))),
-     event.time="2024-09-01", event.label="2024-2025 Cohort\n")
+library(ggplot2)
+## --- 1. Setup helpers ---
+index_date <- as.Date("2025-09-01")
 
-# par(lend="square") # default is round
-# legend("topright", pch=22, pt.cex=2, pt.bg=gray(c(0.3, 0.9)),
-#        border="black", xpd=NA,
-#        legend=c("Completed", "Not Yet Done"), title="MSc plan", bg="white")
+add_months <- function(date, n) {
+  seq(date, by = paste(n, "months"), length.out = 2)[2]
+}
+add_md <- function(date, months = 0, days = 0) {
+  add_months(date, months) + days
+}
+
+## --- 2. Define tasks (relative offsets) ---
+tasks <- data.frame(
+  task= c("Epi Methods I (704)", "Study Design (703)", 
+    "Epi Methods II (705)", "PhD Seminar (706)", 
+    "Comprehensive Exam (701)", "Thesis Protocol (702)", 
+    "BIOS Electives", "EPIB Electives",
+    "Literature review", "Supervisor nomination", 
+    "Tracking form (proposal)", "Defend thesis proposal", 
+    "Thesis work", "Tracking form (work)",
+    "Teaching assistantship", "Tracking form (final)", 
+    "Defend thesis"),
+  start_m = c(0, 0, 4, 4, 8, 12, 12, 12, 0, 8, 20, 16, 19, 32, 36, 44, 45),
+  start_d = c(0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 0, 14, 14, 0, 14, 0),
+  end_m   = c(3, 3, 7, 7, 8, 19, 19, 19, 19, 8, 20, 19, 43, 32, 39, 44, 45),
+  end_d   = c(14, 14, 14, 14, 7, 14, 14, 14, 14, 28, 28, 14, 14, 28, 14, 28, 14),
+  group = c(rep("Courses", 8), rep("Research", 9)),
+  stringsAsFactors = FALSE
+)
+
+## --- 3. Compute actual dates ---
+#tasks$start_date <- mapply(function(m, d) 
+#  add_md(index_date, m, d),
+#  tasks$start_m, tasks$start_d)
+#tasks$end_date <- mapply(function(m, d) 
+#  add_md(index_date, m, d),
+#  tasks$end_m, tasks$end_d)
+
+tasks$start_date <- as.Date(mapply(function(m, d) 
+  add_md(index_date, m, d),
+  tasks$start_m, tasks$start_d))
+
+tasks$end_date   <- as.Date(mapply(function(m, d) 
+  add_md(index_date, m, d),
+  tasks$end_m, tasks$end_d))
+
+## --- 4. Plot with ggplot2 ---
+ggplot(tasks, aes(y = reorder(task, start_date, descending = TRUE))) +
+  geom_segment(aes(x = start_date, xend = end_date, yend = task),
+    linewidth = 4, show.legend = FALSE, color = 'steelblue') + 
+  facet_wrap(vars(group), ncol=1, scales = "free_y") + 
+  scale_y_discrete(limits=rev) + ggtitle("2025-2026 Cohort") +
+  #geom_point(aes(x = start_date), size = 2, show.legend = FALSE) +
+  #geom_point(aes(x = end_date), size = 2, show.legend = FALSE) +
+  scale_x_date(date_breaks = "6 months", date_labels = "%b %Y") +
+  theme_minimal(base_size = 14) +
+  theme(
+    panel.grid.minor = element_blank(),
+    panel.grid.major.y = element_blank(),
+    axis.text.y = element_text(size=12),
+    axis.text.x = element_text(size=10, angle=45, hjust=1),
+    axis.title = element_blank(),
+    strip.text = element_text(size = 14, face = "bold")
+  )
 ```
