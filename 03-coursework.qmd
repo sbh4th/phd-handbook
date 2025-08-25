@@ -32,10 +32,11 @@ These courses can be chosen from the Department’s current offer of more than 4
 ```{r}
 #| echo: FALSE
 #| label: tbl-elect
+#| tbl-cap: Example EBOH Electives (check Departmental website)
 
 d <- read_xlsx("data/PhD-electives-list.xlsx", range = cell_cols("A:C"))
 d1 <- drop_na(d)
-kbl(d1, caption = "Example EBOH Electives (check Departmental website)") %>%
+kbl(d1) %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed"),
                 latex_options = c("striped", "scale_down"))
 ```
