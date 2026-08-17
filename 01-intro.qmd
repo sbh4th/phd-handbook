@@ -27,7 +27,7 @@ Phone: 514-398-6269
 Office: 2001 McGill College, Suite 1250
 
 *PhD Student Representative*  
-Jacob Bigio [[email]](mailto:jacob.bigio@mail.mcgill.ca)   
+Duo Zhang [[email]](mailto:duo.zhang5@mail.mcgill.ca) 
 
 ## Competencies
 Our program aims to prepare our students for successful careers in epidemiology. Upon successful completion of the PhD in Epidemiology at McGill, we aim for our students to: 
@@ -58,7 +58,7 @@ Below we show a very general example of a timeline for completing all of the req
 
 library(ggplot2)
 ## --- 1. Setup helpers ---
-index_date <- as.Date("2025-09-01")
+index_date <- as.Date("2026-09-01")
 
 add_months <- function(date, n) {
   seq(date, by = paste(n, "months"), length.out = 2)[2]
@@ -107,7 +107,7 @@ ggplot(tasks, aes(y = reorder(task, start_date, descending = TRUE))) +
   geom_segment(aes(x = start_date, xend = end_date, yend = task),
     linewidth = 4, show.legend = FALSE, color = 'steelblue') + 
   facet_wrap(vars(group), ncol=1, scales = "free_y") + 
-  scale_y_discrete(limits=rev) + ggtitle("2025-2026 Cohort") +
+  scale_y_discrete(limits=rev) + ggtitle("2026-2027 Cohort") +
   #geom_point(aes(x = start_date), size = 2, show.legend = FALSE) +
   #geom_point(aes(x = end_date), size = 2, show.legend = FALSE) +
   scale_x_date(date_breaks = "6 months", date_labels = "%b %Y") +
