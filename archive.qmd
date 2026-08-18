@@ -1,0 +1,8 @@
+# Past Handbooks
+
+Policies and requirements can change from year to year. If you started the
+program in an earlier cohort, refer to the handbook for your entry year
+below rather than the current version.
+
+- 2025-2026 cohort: [HTML](archive/2025-2026/index.html) | [PDF](archive/2025-2026/phd-handbook.pdf)
+- 2024-2025 cohort: [HTML](archive/2024-2025/index.html) | [PDF](archive/2024-2025/phd-handbook.pdf)

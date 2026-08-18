@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: docs
+  resources:
+    - archive/**
 
 book:
   title: "![](mcgill-epi-logo.png){width=600px} <br><br> PhD Handbook <br> 2026-2027 Academic Year </br>"
@@ -22,6 +24,7 @@ book:
     - 08-thesis.qmd
     - 09-policies.qmd
     - 10-funding.qmd
+    - archive.qmd
 
 format:
   html:
